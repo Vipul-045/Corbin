@@ -1,5 +1,5 @@
 ---
-name: openclaw-elsa-x402
+name: elsa-openclaw
 description: DeFi tools for portfolio analysis, token search, and swap execution via Elsa API with x402 micropayments
 metadata: {"openclaw":{"requires":{"env":["PAYMENT_PRIVATE_KEY"]},"primaryEnv":"PAYMENT_PRIVATE_KEY"}}
 ---

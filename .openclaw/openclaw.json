@@ -1,0 +1,16 @@
+{
+  "skills": {
+    "load": {
+      "extraDirs": [
+        "//Users/vipulyadav/Documents/Files/Solana/corbin/elsa-openclaw"
+      ]
+    },
+    "entries": {
+      "openclaw-elsa-x402": {
+        "env": {
+          "PAYMENT_PRIVATE_KEY": "0a471285e0bb77c5b914d38430e771bce2c5efbe7e5b40500828ecde894d0647"
+        }
+      }
+    }
+  }
+}
